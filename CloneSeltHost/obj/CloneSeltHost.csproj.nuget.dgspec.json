@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vaguiar\\source\\repos\\AzurePipeline\\KestrelSelfHost\\CloneSeltHost\\CloneSeltHost.csproj": {}
+    "C:\\Users\\vaguiar\\source\\repos\\AzurePipeline\\KestrelSelfHostApi\\CloneSeltHost\\CloneSeltHost.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vaguiar\\source\\repos\\AzurePipeline\\KestrelSelfHost\\CloneSeltHost\\CloneSeltHost.csproj": {
+    "C:\\Users\\vaguiar\\source\\repos\\AzurePipeline\\KestrelSelfHostApi\\CloneSeltHost\\CloneSeltHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vaguiar\\source\\repos\\AzurePipeline\\KestrelSelfHost\\CloneSeltHost\\CloneSeltHost.csproj",
+        "projectUniqueName": "C:\\Users\\vaguiar\\source\\repos\\AzurePipeline\\KestrelSelfHostApi\\CloneSeltHost\\CloneSeltHost.csproj",
         "projectName": "CloneSeltHost",
-        "projectPath": "C:\\Users\\vaguiar\\source\\repos\\AzurePipeline\\KestrelSelfHost\\CloneSeltHost\\CloneSeltHost.csproj",
+        "projectPath": "C:\\Users\\vaguiar\\source\\repos\\AzurePipeline\\KestrelSelfHostApi\\CloneSeltHost\\CloneSeltHost.csproj",
         "packagesPath": "C:\\Users\\vaguiar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vaguiar\\source\\repos\\AzurePipeline\\KestrelSelfHost\\CloneSeltHost\\obj\\",
+        "outputPath": "C:\\Users\\vaguiar\\source\\repos\\AzurePipeline\\KestrelSelfHostApi\\CloneSeltHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

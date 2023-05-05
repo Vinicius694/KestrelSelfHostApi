@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2b1Gjzg6m4s9flByouh3PEZYWYZBiv+0VIVniPY2NOIC/TCJcDMt0baCOP4PIqtReAvfr3n9dLa0sMvjRGawhg==",
+  "dgSpecHash": "o3BNbhs8D+bzOEW38J6lRTD0Sqz+dA5TTZxDXX871AlJq/FdM9QeTmXoXTsxF3+wgAXErIuqyF/rvf514pBhag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vaguiar\\source\\repos\\AzurePipeline\\KestrelSelfHost\\CloneSeltHost\\CloneSeltHost.csproj",
+  "projectFilePath": "C:\\Users\\vaguiar\\source\\repos\\AzurePipeline\\KestrelSelfHostApi\\CloneSeltHost\\CloneSeltHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vaguiar\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
     "C:\\Users\\vaguiar\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

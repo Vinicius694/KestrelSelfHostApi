@@ -5,7 +5,7 @@ namespace ICA.Ng.Carpark.WebApi
 {
     internal class Program
     {
-
+        //fix commit line
         static void Main(string[] args)
         {
             string jsonPath = @"C:\Users\vaguiar\source\repos\CloneSeltHost\CloneSeltHost\appsettings.json";
